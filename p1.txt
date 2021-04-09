@@ -2,9 +2,9 @@
 2. second story
 3. -- main work --
 4. main story1
-   main story2
-   main story3
-5. --feature work --
-6. feature story1
-7. feature story2
-8. feature story3
+5. main story2
+6. main story3
+7. --feature work --
+8. feature story1
+9. feature story2
+10. feature story3
